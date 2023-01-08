@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm a Lance, technical designer specializing specializing in combat and input handling, designing systems and tools to bring gameplay ideas to life. Using Python and GDScript, and tools like the Godot game engine, I have developed a variety of game systems including complex player controllers, combo heavy combat systems, rollback netcode systems, and machine learning agents for enemy behavior.
 
