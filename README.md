@@ -6,13 +6,13 @@ Much of this is for my upcoming Steam title [Dashwalk Dueling](https://store.ste
 
 For 2023 though, I plan to do more Open-Source projects and build on this public profile!
 
-# ⚔ Here are a few of my favorite projects that showcase my skills ⚔
+# ⚔ Here are some fun projects that show off my skills ⚔
 
 ## Tactical Fishing 🎣
-Tactical Fishing is a game jam project that explores hunger and starvation in a uniquely limited fishing game with reactive boids. Fish vary in number, from absolute abundance to just a few scattered across the map. The player naturally falls in and out of the fear of starvation until they can no longer keep up.
-
-## Lucifer 🔥
-Lucifer is a singleplayer "push forward" combat game that explores combat with the limitation of movement being associated with a commitment to the player's main attack. The gameplay also includes spell cards that add variety to the rushdown-style combat. I had a lot of fun developing the character controller with two floating hands for this project!
+[Tactical Fishing](https://github.com/Lance-Starkie/Tactical-Fishing) is a game jam project that explores hunger and starvation in a uniquely limited fishing game with reactive boids. Fish vary in number, from absolute abundance to just a few scattered across the map. The player naturally falls in and out of the fear of starvation until they can no longer keep up.
 
 ## SmashRPS 💪
-SmashRPS is a project that generates optimal candidates for rock paper scissors matchups for characters in Super Smash Bros. Ultimate. This project was a fun exercise in Python and helped me practice my skills with data analysis and optimization.
+[SmashRPS](https://github.com/Lance-Starkie/gejak) is a project that generates optimal candidates for "rock-paper-scissors" style matchups of 3 characters each in Super Smash Bros. Ultimate. This project was a fun little exercise in Python and exposed me to data analysis and optimization.
+
+## Gejak Engine ♟
+[Gejak](https://github.com/Lance-Starkie/gejak) is an abstract strategy board game that I designed. This an engine to run the game developed as a console program using Python with an AI opponent. I regularly return to this project and [other projects](https://github.com/Lance-Starkie/gejak-digital-board "Board Visualizer") following this board game. I'm excited to continue working on this project and potentially releasing it as a standalone game in the future.
