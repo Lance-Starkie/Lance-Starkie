@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I'm a Lance, technical designer specializing specializing in combat and input handling, designing systems and tools to bring gameplay ideas to life. Using Python and GDScript, and tools like the Godot game engine, I have developed a variety of game systems including complex player controllers, combo heavy combat systems, rollback netcode systems, and machine learning agents for enemy behavior.
 
 Much of this is for my upcoming Steam title [Dashwalk Dueling](https://store.steampowered.com/app/1756630/Dashwalk_Dueling/ "Make sure to Wishlist!") so I can't show off too much here yet. 
@@ -17,4 +16,3 @@ Lucifer is a singleplayer "push forward" combat game that explores combat with t
 
 ## SmashRPS 💪
 SmashRPS is a project that generates optimal candidates for rock paper scissors matchups for characters in Super Smash Bros. Ultimate. This project was a fun exercise in Python and helped me practice my skills with data analysis and optimization.
--->
