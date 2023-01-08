@@ -2,7 +2,7 @@
 
 technical designer specializing specializing in combat and input handling, designing systems and tools to bring gameplay ideas to life. Using Python and GDScript, and tools like the Godot game engine, I have developed a variety of game systems including complex player controllers, combo heavy combat systems, rollback netcode systems, and machine learning agents for enemy behavior.
 
-Much of this is for my upcoming Steam title [Dashwalk Dueling](https://store.steampowered.com/app/1756630/Dashwalk_Dueling/ "Make sure to Wishlist!") so I can't show off too much here yet. 
+Much of this is for my upcoming Steam title [Dashwalk Dueling](https://store.steampowered.com/app/1756630/Dashwalk_Dueling/ "Make sure to Wishlist!") so I can't show off too much here about it...
 
 For 2023 though, I plan to do more Open-Source projects and build on this public profile!
 
