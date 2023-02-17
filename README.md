@@ -6,6 +6,8 @@ Much of this is for my upcoming Steam title [Dashwalk Dueling](https://store.ste
 
 For 2023 though, I plan to do more Open-Source projects and build on this public profile!
 
+I also have a [portfolio website]() that gets into the nitty gritty
+
 # ⚔ Here are some fun projects that show off my skills ⚔
 
 ## Tactical Fishing 🎣
