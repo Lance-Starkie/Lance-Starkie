@@ -10,11 +10,11 @@ I also have a [portfolio website](https://lstarkie.dev/) that gets into the nitt
 
 # ⚔ Here are some fun projects that show off my skills ⚔
 
-## Tactical Fishing 🎣
+## Tactical Fishing
 [Tactical Fishing](https://github.com/Lance-Starkie/Tactical-Fishing) is a game jam project that explores hunger and starvation in a uniquely limited fishing game with reactive boids. Fish vary in number, from absolute abundance to just a few scattered across the map. The player naturally falls in and out of the fear of starvation until they can no longer keep up.
 
-## SmashRPS 💪
+## SmashRPS
 [SmashRPS](https://github.com/Lance-Starkie/gejak) is a project that generates optimal candidates for "rock-paper-scissors" style matchups of 3 characters each in Super Smash Bros. Ultimate. This project was a fun little exercise in Python and exposed me to data analysis and optimization.
 
-## Gejak Engine ♟
+## Gejak Engine
 [Gejak](https://github.com/Lance-Starkie/gejak) is an abstract strategy board game that I designed. This an engine to run the game developed as a console program using Python with an AI opponent. I regularly return to this project and [other projects](https://github.com/Lance-Starkie/gejak-digital-board "Board Visualizer") following this board game. I'm excited to continue working on this project and potentially releasing it as a standalone game in the future.
