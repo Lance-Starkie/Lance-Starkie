@@ -1,6 +1,6 @@
 ### Hi, I'm Lance! 👋
 
-I'm a technical designer with a focus on combat and input handling. I love diving deep into the mechanics, designing systems and tools that make gameplay ideas come alive. My tools of choice are Python, GDScript, and the Godot game engine. Over time, I've worked on a range of game systems across my projects, from player controllers and combo-driven combat mechanics to rollback netcode in Godot and machine-learning agents for enemy behavior. If you're really curious to see some of my oldest projects they can be found [here](https://scratch.mit.edu/users/family2/), I've been doing this for almost 10 years now because of how early I started!
+I'm a technical designer with a focus on combat and input handling. I love diving deep into the mechanics, designing systems and tools that make gameplay ideas come alive. My tools of choice are Python, GDScript, and the Godot game engine. Over time, I've worked on a range of game systems across my projects, from player controllers and combo-driven combat mechanics to rollback netcode in Godot and machine-learning agents for enemy behavior. If you're really curious to see some of my oldest projects they can be found [here](https://scratch.mit.edu/users/family2/projects/), I've been doing this for almost 10 years now because of how early I started!
 
 Much of this is for my upcoming Steam title [Dashwalk Dueling](https://store.steampowered.com/app/1756630/Dashwalk_Dueling/ "Make sure to Wishlist!") so I can't show off too much here about it...
 
